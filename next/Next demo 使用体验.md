@@ -16,3 +16,10 @@ DATABASE_URL=mysql://root@localhost:3306/next-test
 
 # [test-Next-gh-page-example.io](https://github.com/nd-yi/test-Next-gh-page-example.io)
 这个是我的实验  ovo homepage ssr版本
+
+## todo
+
+https://github.com/leerob/leerob.io.git
+## my test
+1. 整体可用
+2. 但是不能让prisma链接到mysql 配置有问题
